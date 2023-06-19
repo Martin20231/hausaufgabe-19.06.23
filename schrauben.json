@@ -1,0 +1,108 @@
+[
+    {
+      "schrauben_typ": "Kreuzschlitz",
+      "verkaufsdatum": "2023-06-01T00:00:00Z",
+      "menge": 100,
+      "preis_pro_einheit": 0.05,
+      "produkt_id": "prod1"
+    },
+    {
+      "schrauben_typ": "Kreuzschlitz",
+      "verkaufsdatum": "2023-06-02T00:00:00Z",
+      "menge": 150,
+      "preis_pro_einheit": 0.05,
+      "produkt_id": "prod1"
+    },
+    {
+      "schrauben_typ": "Kreuzschlitz",
+      "verkaufsdatum": "2023-06-03T00:00:00Z",
+      "menge": 120,
+      "preis_pro_einheit": 0.05,
+      "produkt_id": "prod1"
+    },
+    {
+      "schrauben_typ": "Kreuzschlitz",
+      "verkaufsdatum": "2023-06-04T00:00:00Z",
+      "menge": 200,
+      "preis_pro_einheit": 0.05,
+      "produkt_id": "prod1"
+    },
+    {
+      "schrauben_typ": "Kreuzschlitz",
+      "verkaufsdatum": "2023-06-05T00:00:00Z",
+      "menge": 180,
+      "preis_pro_einheit": 0.05,
+      "produkt_id": "prod1"
+    },
+    {
+      "schrauben_typ": "Sechskant",
+      "verkaufsdatum": "2023-06-01T00:00:00Z",
+      "menge": 200,
+      "preis_pro_einheit": 0.07,
+      "produkt_id": "prod2"
+    },
+    {
+      "schrauben_typ": "Sechskant",
+      "verkaufsdatum": "2023-06-02T00:00:00Z",
+      "menge": 150,
+      "preis_pro_einheit": 0.07,
+      "produkt_id": "prod2"
+    },
+    {
+      "schrauben_typ": "Sechskant",
+      "verkaufsdatum": "2023-06-03T00:00:00Z",
+      "menge": 250,
+      "preis_pro_einheit": 0.07,
+      "produkt_id": "prod2"
+    },
+    {
+      "schrauben_typ": "Sechskant",
+      "verkaufsdatum": "2023-06-04T00:00:00Z",
+      "menge": 220,
+      "preis_pro_einheit": 0.07,
+      "produkt_id": "prod2"
+    },
+    {
+      "schrauben_typ": "Sechskant",
+      "verkaufsdatum": "2023-06-05T00:00:00Z",
+      "menge": 240,
+      "preis_pro_einheit": 0.07,
+      "produkt_id": "prod2"
+    },
+    {
+      "schrauben_typ": "Torx",
+      "verkaufsdatum": "2023-06-01T00:00:00Z",
+      "menge": 120,
+      "preis_pro_einheit": 0.08,
+      "produkt_id": "prod3"
+    },
+    {
+      "schrauben_typ": "Torx",
+      "verkaufsdatum": "2023-06-02T00:00:00Z",
+      "menge": 100,
+      "preis_pro_einheit": 0.08,
+      "produkt_id": "prod3"
+    },
+    {
+      "schrauben_typ": "Torx",
+      "verkaufsdatum": "2023-06-03T00:00:00Z",
+      "menge": 160,
+      "preis_pro_einheit": 0.08,
+      "produkt_id": "prod3"
+    },
+    {
+      "schrauben_typ": "Torx",
+      "verkaufsdatum": "2023-06-04T00:00:00Z",
+      "menge": 140,
+      "preis_pro_einheit": 0.08,
+      "produkt_id": "prod3"
+    },
+    {
+      "schrauben_typ": "Torx",
+      "verkaufsdatum": "2023-06-05T00:00:00Z",
+      "menge": 150,
+      "preis_pro_einheit": 0.08,
+      "produkt_id": "prod3"
+    }
+  ]
+  
